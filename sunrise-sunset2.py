@@ -14,7 +14,7 @@ import datetime
 from astral.sun import sun
 #
 # Set the from and to zones as from UTC to Local
-$
+#
 from_zone = tz.tzutc()
 to_zone = tz.tzlocal()
 #
